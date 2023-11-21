@@ -16,12 +16,10 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
-
-## Output:
-![image](https://github.com/gpavana/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118787343/5d715d00-7cb5-41ae-aded-fb0c280dcb88)
+![image](https://github.com/gpavana/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118787343/6c96d802-1f67-45c9-8f48-84fa1f4c0e6e)
+![image](https://github.com/gpavana/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118787343/2ba165c8-49cb-48b3-b3d4-f61631fa7fbc)
+![image](https://github.com/gpavana/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118787343/835c4f79-5dbf-43e4-9a63-5503014695a0)
+![image](https://github.com/gpavana/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118787343/9e349a73-7f13-4799-acd7-e97f4dfe7cf2)
 
 ### Name: PAVANA.G
 ### Register Number: 212222230105
